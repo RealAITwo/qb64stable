@@ -1,3 +1,4 @@
+quickly going to write down it's a chatbot, not an AI.
 # Welcome to the official AITwo github page!
 This is the first AITwo repository. Thanks for just coming to my github page!
 # What is AITwo?
